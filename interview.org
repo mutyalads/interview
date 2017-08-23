@@ -1,0 +1,34 @@
+* Spark
+** Architecture
+** Api
+** Libraries
+* Streaming
+** SparkStreaming
+** Flink
+** Kafka
+* Hadoop
+** Architecture
+** ADMIN
+*** standard commands
+** JAVA API
+* Hadoop Tools
+** hive
+** impala
+** pig
+** presto
+* Scala
+* NoSQL
+** hbase
+** phoneix
+** cassandra
+* Sql
+** Oracle
+** Mysql
+* Java
+* Spring
+* JSP Servlet
+* Frontend
+** Tableau
+** D3js
+** react-flux
+* Git
